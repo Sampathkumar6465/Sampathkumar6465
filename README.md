@@ -128,16 +128,6 @@ Docker 🔄
 AWS/Azure 🔄
 ```
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sampathkumar6465&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sampathkumar6465&layout=compact)
-
----
-
 ## 🏆 Areas of Interest
 
 - Generative AI
@@ -155,7 +145,7 @@ AWS/Azure 🔄
 
 📧 Email: kumarsampath158@gmail.com
 
-💼 LinkedIn: Add Your LinkedIn URL Here
+💼 LinkedIn: www.linkedin.com/in/sampathkumarmoorthi
 
 🌐 Portfolio: Coming Soon
 
